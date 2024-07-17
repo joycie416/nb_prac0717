@@ -12,12 +12,12 @@ import { getDocs } from "https://www.gstatic.com/firebasejs/9.22.0/firebase-fire
 //         // 본인 설정 내용 채우기 : firestore database 'sdk 설정 및 구성'에서 구성 코드 붙이기
 // };
 const firebaseConfig = {
-  apiKey: "AIzaSyAcTX_5mbzFJeUantOQ4xZXah_aJtW96EQ",
-  authDomain: "prac-0717.firebaseapp.com",
-  projectId: "prac-0717",
-  storageBucket: "prac-0717.appspot.com",
-  messagingSenderId: "299955746969",
-  appId: "1:299955746969:web:b6cbca8f52d9469732e008"
+  apiKey: 
+  authDomain: 
+  projectId: 
+  storageBucket: 
+  messagingSenderId: 
+  appId: 
 };
 
 
